@@ -21,22 +21,22 @@ entries are stored internally as:
 service|username|password
 
 ## current features
--add a new credential
+- add a new credential
 
--search by service name
+- search by service name
 
--list all stored credentials
+- list all stored credentials
 
--delete an entry by index
+- delete an entry by index
 
--automatic saving on exit
+- automatic saving on exit
 
 ## future roadmap
--encryption 
+- encryption 
 
--hashed master password
+- hashed master password
 
--command-line flags
+- command-line flags
 
--entry editing
+- entry editing
 
