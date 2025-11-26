@@ -22,14 +22,21 @@ service|username|password
 
 ## current features
 -add a new credential
+
 -search by service name
+
 -list all stored credentials
+
 -delete an entry by index
+
 -automatic saving on exit
 
 ## future roadmap
 -encryption 
+
 -hashed master password
+
 -command-line flags
+
 -entry editing
 
